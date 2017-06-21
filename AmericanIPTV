@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1, ABC News
+http://abclive.abcnews.com/i/abc_live1@136327/master.m3u8
+#EXTINF:-1, Fox 23 News
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:-1, Fox 25 News
+http://cmghlslive-i.akamaihd.net/hls/live/224671/WFXT/904k/prog.m3u8
+#EXTINF:-1, Fox 30 Action News
+http://cmghlslive-i.akamaihd.net/hls/live/224710/WFOX/904k/prog.m3u8
+#EXTINF:-1, 3ABN
+http://moiptvus-ih.akamaihd.net/1/3abnlive_1@328342/master.m3u8
+#EXTINF:-1, 3ABN International
+http://moiptvus-ih.akamaihd.net/1/intlive_1@328343/master.m3u8
+#EXTINF:-1, Amazing Facts TV
+http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w192134567.m3u8
+#EXTINF:-1, Andisheh TV
+http://63.237.48.28/ios/ANDISHEH/ANDISHEH.m3u8
+#EXTINF:-1, Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, Catholic TV
+http://catholictvhd-ih.akamaihd.net/i/ctvhd_1@88148/index_1_av-p.m3u8
+#EXTINF:-1, CBS 47 News
+http://cmghlslive-i.akamaihd.net/hls/live/224714/WJAX/904k/prog.m3u8
+#EXTINF:-1, CBS Europa
+http://tv2iptv.com:8000/live/Nomman/azeqsdvg/3389.m3u8
+#EXTINF:-1, CBS N
+http://cbsnewshd-ih.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+
+
+
+
+
+
